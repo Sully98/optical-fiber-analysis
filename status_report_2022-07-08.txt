@@ -1,0 +1,385 @@
+Report for 2022-06-16 to 2022-07-08
+
+Channel 0 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 1 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 2 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 3 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 4 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 5 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 6 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 7 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 8 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 9 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 10 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 11 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 12 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 13 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 14 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 15 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 16 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 17 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 18 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 19 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 20 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 21 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 22 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 23 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 24 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 25 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 26 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 27 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 28 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 29 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 30 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 31 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 32 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 33 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 34 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 35 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 36 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 37 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 38 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 39 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 40 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 41 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 42 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 43 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 44 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 45 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 46 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 47 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 48 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 49 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 50 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 51 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 52 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 53 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 54 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 55 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 56 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 57 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 58 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 59 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 60 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 61 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 62 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
+
+Channel 63 report: 
+mu alert: False
+sigma alert: False
+wave alert: False
+power alert: False
